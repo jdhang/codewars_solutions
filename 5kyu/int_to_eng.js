@@ -1,3 +1,4 @@
+// source: http://www.codewars.com/kata/53c94a82689f84c2dd00007d
 function intToEnglish (num) {
   var english = '',
       maxNum = 10 * Math.exp(15),
